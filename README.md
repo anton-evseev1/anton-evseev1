@@ -9,7 +9,7 @@ I'm very interested in this field.
 **My contacts:**
 
 - 📞 +7-918-142-35-95  
-- 💬 [Telegram](https://web.telegram.org/a/)   
+- 💬 [Telegram](@better_stranger)   
 - 📧 antonevseev2403@mail.ru 
 
    </td>
