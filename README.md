@@ -18,3 +18,10 @@ I'm very interested in this field.
     </td>
   </tr>
 </table>
+## Skills 🛠️
+
+- **ML skills:** 
+`Python`, `SQL`, `Git`, `PostgreSQL`, `Redash`, `Jupyter Notebook`
+
+- **Technologies:** 
+`Pandas`, `NumPy`, `Scipy`, `Matplotlib`, `Seaborn`
