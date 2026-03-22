@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi everyone! I'm Anton Evseev, aspiring Data Analyst.
 
-<!--
-**anton-evseev1/anton-evseev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I'm a data scientist, having completed a course in data analysis, learning statistics, and solving product problems. 
+I'm very interested in this field._
 
-Here are some ideas to get you started:
+**My contacts:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📞 +7-918-142-35-95  
+- 💬 @better_stranger   
+- 📧 antonevseev2403@mail.ru 
+
+    </td>
+    <td width="50%">
+      <img src="[https://media.giphy.com/media/...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQxNXdlcGs0d2phOHRpYjZ0cG5ndzR2emhwdjdmeGdyN2o0aDlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif)" width="100%">
+    </td>
+  </tr>
+</table>
