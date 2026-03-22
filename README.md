@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td width="60%">
-_I'm a data scientist, having completed a course in data analysis, learning statistics, and solving product problems. 
-I'm very interested in this field._
+I'm a data scientist, having completed a course in data analysis, learning statistics, and solving product problems. 
+I'm very interested in this field.
 
 **My contacts:**
 
