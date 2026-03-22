@@ -8,7 +8,7 @@
 **My contacts:**
 
 - 📞 +7-918-142-35-95  
-- 💬 [Telegram](@better_stranger)   
+- 💬 [Telegram](https://t.me/better_stranger)   
 - 📧 antonevseev2403@mail.ru 
 
    </td>
