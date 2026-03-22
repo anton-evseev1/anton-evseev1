@@ -1,10 +1,9 @@
-## Hi everyone! I'm Anton Evseev, aspiring Data Analyst.
+## Всем привет, я Евсеев Антон, начинающий Аналитик данных.
 
 <table>
   <tr>
     <td width="60%">
-I'm a data scientist, having completed a course in data analysis, learning statistics, and solving product problems. 
-I'm very interested in this field.
+Занимаюсь анализом данных, параллельно обучаюсь в магистратуре по программе "Экономическая аналитика". Также закончил курс по анализу данных, изучая статистику и решая продуктовые задачи. Данная сфера мне очень интересна!
 
 **My contacts:**
 
