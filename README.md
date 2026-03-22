@@ -23,4 +23,4 @@
 `Python`, `SQL`, `Git`, `PostgreSQL`, `Redash`, `Jupyter Notebook`
 
 - **Technologies:** 
-`Pandas`, `NumPy`, `Scipy`, `Matplotlib`, `Seaborn`
+`Pandas`, `NumPy`, `Scipy`, `Matplotlib`, `Seaborn`, `Yandex DataLens`
